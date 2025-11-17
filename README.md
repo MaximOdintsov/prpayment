@@ -25,8 +25,8 @@
 ## Запуск через Docker
 * **Клонирование репозитория:**
 ```
-git clone https://github.com/MaximOdintsov/django_stripe.git
-cd django_stripe
+git clone https://github.com/MaximOdintsov/prpayment.git
+cd prpayment
 ```
 * **Создать файл *.env.prod*:**
 ```
@@ -83,8 +83,8 @@ docker compose exec web python3 backend/manage.py collectstatic
 ## Запуск локально на linux:
 * **Клонирование репозитория:**
 ```
-git clone https://github.com/MaximOdintsov/django_stripe.git
-cd django_stripe
+git clone https://github.com/MaximOdintsov/prpayment.git
+cd prpayment
 ```
 * **Создать файл **.env**:**
 ```
